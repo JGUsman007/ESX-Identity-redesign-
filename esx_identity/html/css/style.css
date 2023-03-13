@@ -4,7 +4,7 @@
 body {
 	font-family: sans-serif;
 	overflow: hidden;
-	display:block;
+	display:none;
 	background-image:  linear-gradient(to right, #1c232a ,#1c232af5, #1c232ae0);
 	height: 100%;
 	background-size: cover;
